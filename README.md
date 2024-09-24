@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 Hi there, I 'am Avelin!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<p align="center"> I'am a frontend developer from India</p>
+<p align="center"> I am a frontend developer from India</p>
 <br/>
-<p align="center">Experienced in building web experiences with Javascript technologies. I enjoy working closely with cross-functional teams to transform ideas into impactful products. </p>
+<p align="center">Experienced in building web applications with Javascript technologies. I enjoy working closely with cross-functional teams to transform ideas into impactful products. </p>
 <p align="center">Check out my portfolio https://avelinannvarghese.netlify.app/</p>
 
 <br />
